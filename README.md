@@ -10,19 +10,6 @@ A clean, minimal healthcare emergency platform website. Connect with verified lo
 - **Icons:** Lucide (outline style)
 - **Font:** Inter via `next/font`
 
-## Getting Started
-
-```bash
-npm install
-npm run dev        # http://localhost:3000
-```
-
-```bash
-npm run build      # production build
-npm start          # serve production build
-npm run typecheck  # tsc --noEmit
-```
-
 ## Highlights
 
 - Interactive SOS demo: tap SOS → GPS locate → skeleton search → doctor cards → connect
