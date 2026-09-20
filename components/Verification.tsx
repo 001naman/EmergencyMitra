@@ -39,7 +39,7 @@ export default function Verification() {
             Trust & Safety First
           </h2>
           <p className="mt-4 max-w-lg text-[16px] leading-relaxed text-medgray">
-            Every doctor on EmergencyMitra undergoes a strict{" "}
+            Every doctor on EmergencyMitraa undergoes a strict{" "}
             <span className="font-semibold text-charcoal">3-layer verification</span> before they
             can accept a single emergency request.
           </p>

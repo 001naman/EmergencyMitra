@@ -23,13 +23,13 @@ export default function Footer() {
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
           <div>
-            <a href="#home" className="flex items-center gap-2.5" aria-label="EmergencyMitra home">
+            <a href="#home" className="flex items-center gap-2.5" aria-label="EmergencyMitraa home">
               <span className="grid h-9 w-9 place-items-center rounded-lg bg-coral text-white">
                 <HeartPulse size={19} strokeWidth={2.2} />
               </span>
               <span className="leading-tight">
                 <span className="block text-[16px] font-bold tracking-tight text-charcoal">
-                  EmergencyMitra
+                  EmergencyMitraa
                 </span>
                 <span className="block text-[11px] font-medium text-medgray">
                   Aapka Emergency Saathi
@@ -86,13 +86,13 @@ export default function Footer() {
             <ul className="mt-5 space-y-3.5">
               <li>
                 <a
-                  href="mailto:help@emergencymitra.in"
+                  href="mailto:help@emergencymitraa.in"
                   className="flex items-center gap-3 text-[14px] text-medgray transition-colors hover:text-coral"
                 >
                   <span className="grid h-9 w-9 shrink-0 place-items-center rounded-lg border border-line">
                     <Mail size={15} className="text-charcoal" />
                   </span>
-                  help@emergencymitra.in
+                  help@emergencymitraa.in
                 </a>
               </li>
               <li>
@@ -117,12 +117,12 @@ export default function Footer() {
         </div>
 
         <p className="mt-12 text-[12px] leading-relaxed text-medgray/80">
-          Medical disclaimer: EmergencyMitra is a digital health platform for non-life-threatening
+          Medical disclaimer: EmergencyMitraa is a digital health platform for non-life-threatening
           emergencies. In a critical emergency, call 108 or visit your nearest hospital immediately.
         </p>
 
         <div className="mt-8 flex flex-col items-center justify-between gap-5 border-t border-line pt-8 sm:flex-row">
-          <p className="text-[13px] text-medgray">© 2026 EmergencyMitra. All rights reserved.</p>
+          <p className="text-[13px] text-medgray">© 2026 EmergencyMitraa. All rights reserved.</p>
           <div className="flex gap-3">
             {SOCIALS.map((social) => (
               <a

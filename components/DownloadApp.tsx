@@ -18,7 +18,7 @@ export default function DownloadApp() {
       <div className="mx-auto grid w-full max-w-[1200px] items-center gap-14 px-6 lg:grid-cols-2">
         <Reveal>
           <h2 className="text-[32px] font-bold leading-[1.15] tracking-tight text-charcoal md:text-[36px]">
-            Download EmergencyMitra App
+            Download EmergencyMitraa App
           </h2>
           <p className="mt-4 max-w-lg text-[16px] leading-relaxed text-medgray">
             Emergency healthcare in your pocket — SOS, video consults and medicine delivery, one

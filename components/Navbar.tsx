@@ -45,13 +45,13 @@ export default function Navbar() {
       />
 
       <nav className="mx-auto flex h-16 w-full max-w-[1200px] items-center justify-between px-6">
-        <a href="#home" className="flex items-center gap-2.5" aria-label="EmergencyMitra home">
+        <a href="#home" className="flex items-center gap-2.5" aria-label="EmergencyMitraa home">
           <span className="grid h-9 w-9 place-items-center rounded-lg bg-coral text-white">
             <HeartPulse size={19} strokeWidth={2.2} />
           </span>
           <span className="leading-tight">
             <span className="block text-[16px] font-bold tracking-tight text-charcoal">
-              EmergencyMitra
+              EmergencyMitraa
             </span>
             <span className="block text-[11px] font-medium text-medgray">
               Aapka Emergency Saathi

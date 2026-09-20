@@ -29,7 +29,7 @@ export default function Testimonials() {
       <div className="mx-auto w-full max-w-[1200px] px-6">
         <SectionHeading
           title="Lives We've Impacted"
-          subtitle="Real stories from patients and doctors who trust EmergencyMitra in critical moments."
+          subtitle="Real stories from patients and doctors who trust EmergencyMitraa in critical moments."
         />
 
         <div className="no-scrollbar mt-14 flex snap-x snap-mandatory gap-6 overflow-x-auto pb-2 md:grid md:grid-cols-3 md:overflow-visible md:pb-0">

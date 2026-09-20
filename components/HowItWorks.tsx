@@ -16,7 +16,7 @@ export default function HowItWorks() {
     <section id="how-it-works" className="scroll-mt-24 py-20">
       <div className="mx-auto w-full max-w-[1200px] px-6">
         <SectionHeading
-          title="How EmergencyMitra Works"
+          title="How EmergencyMitraa Works"
           subtitle="From SOS to medicine at your doorstep — five simple steps, under two minutes."
         />
 

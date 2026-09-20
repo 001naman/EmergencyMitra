@@ -1,4 +1,4 @@
-# EmergencyMitra — Aapka Emergency Saathi
+# EmergencyMitraa — Aapka Emergency Saathi
 
 A clean, minimal healthcare emergency platform website. Connect with verified local doctors in under 2 minutes — available 24/7 for voice, video, or in-person consultations.
 

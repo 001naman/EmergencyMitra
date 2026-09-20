@@ -187,7 +187,7 @@ export default function LiveDemo() {
                     <span className="grid h-6 w-6 place-items-center rounded-md bg-coral text-white">
                       <HeartPulse size={13} />
                     </span>
-                    <span className="text-[13px] font-bold text-charcoal">EmergencyMitra</span>
+                    <span className="text-[13px] font-bold text-charcoal">EmergencyMitraa</span>
                   </span>
                   <span className="rounded-full bg-emerald-soft px-2.5 py-1 text-[10px] font-bold text-emerald">
                     24/7 LIVE

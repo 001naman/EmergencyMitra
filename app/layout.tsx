@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 
 export const metadata: Metadata = {
-  title: "EmergencyMitra — Aapka Emergency Saathi",
+  title: "EmergencyMitraa — Aapka Emergency Saathi",
   description:
     "Connect with verified local doctors in under 2 minutes. Available 24/7 for voice, video, or in-person consultations. 100% NMC verified doctors across India.",
 };

@@ -25,7 +25,7 @@ export default function Features() {
     <section id="features" className="scroll-mt-24 bg-softbg py-20">
       <div className="mx-auto w-full max-w-[1200px] px-6">
         <SectionHeading
-          title="Why Choose EmergencyMitra"
+          title="Why Choose EmergencyMitraa"
           subtitle="Built for the moments that matter most — fast, verified, and affordable emergency care."
         />
 
